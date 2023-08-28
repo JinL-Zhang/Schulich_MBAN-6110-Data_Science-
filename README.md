@@ -1,5 +1,5 @@
 # Schulich_MBAN-6110 Data Science
-#### Include 3 data science tasks completed in Python: EDA, Statistical Testing, Pipeline with Regularization for Linear Regression, and 
+#### Include 3 data science tasks completed in Python: EDA, Statistical Testing, and Pipeline with Regularization for Linear Regression 
 
 #### 1 ML group project: Loan Application Approval Prediction Project
 
